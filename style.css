@@ -1,0 +1,43 @@
+body {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #171312;
+    color: snow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    height: 90px;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.logo {
+    height: 70px;
+}
+
+a {
+    text-transform: uppercase;
+    margin-right: 20px;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.gra {
+    height: 700px;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+footer {
+    background-color: chartreuse;
+    height: 100px;
+}
