@@ -17,10 +17,11 @@ header {
     height: 70px;
 }
 
-a {
+nav>a {
     text-transform: uppercase;
     margin-right: 20px;
     text-decoration: none;
+    color: snow;
 }
 
 .flex-container {
@@ -31,7 +32,7 @@ a {
 
 #about {
     color: aqua;
-    padding: 50px 200px;
+    padding: 0 100px 0 100px;
 }
 
 h3>span {
@@ -39,13 +40,13 @@ h3>span {
 }
 
 #works {
+    padding: 0 100px 0 100px;
     color: rgb(194, 84, 196);
-    padding: 50px 200px;
 }
 
 #knowledge {
     color: yellow;
-    padding: 50px 200px;
+    padding: 0 100px 0 100px;
 }
 
 ul>li {
@@ -63,6 +64,6 @@ h1 {
 }
 
 footer {
-    background-color: chartreuse;
+    text-align: center;
     height: 100px;
 }
