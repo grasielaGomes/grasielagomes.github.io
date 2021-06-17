@@ -17,15 +17,16 @@ header {
     padding-top: 20px;
 }
 
-.logo {
-    height: 70px;
-}
-
 a {
     text-transform: uppercase;
     margin-right: 20px;
     text-decoration: none;
     color: snow;
+}
+
+img.flex-container {
+    height: auto;
+    width: auto;
 }
 
 .flex-container {
@@ -44,6 +45,10 @@ a {
 
 .content-white {
     color: snow;
+}
+
+.content-black {
+    color: #171312;
 }
 
 .section-content {
@@ -71,11 +76,6 @@ h3 span {
 ul li {
     color: snow;
     padding: 10px;
-}
-
-.gra {
-    height: 700px;
-    margin-right: auto;
 }
 
 h1 {
