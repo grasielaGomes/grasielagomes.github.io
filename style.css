@@ -39,7 +39,7 @@ a {
 }
 
 #about {
-    color: aqua;
+    color: #04ab9f;
 }
 
 h3 span {
@@ -49,11 +49,11 @@ h3 span {
 }
 
 #works {
-    color: rgb(194, 84, 196);
+    color: #e6007e;
 }
 
 #knowledge {
-    color: yellow;
+    color: #fbb900;
 }
 
 ul li {
