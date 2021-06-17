@@ -34,6 +34,18 @@ a {
     justify-content: space-between;
 }
 
+.content-green {
+    color: #37d906;
+}
+
+.content-purple {
+    color: blueviolet;
+}
+
+.content-white {
+    color: snow;
+}
+
 .section-content {
     padding: 0 100px 0 100px;
 }
