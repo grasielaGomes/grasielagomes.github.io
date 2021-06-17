@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     width: 1024px;
     margin-left: auto;
@@ -17,7 +21,7 @@ header {
     height: 70px;
 }
 
-nav>a {
+a {
     text-transform: uppercase;
     margin-right: 20px;
     text-decoration: none;
@@ -30,26 +34,29 @@ nav>a {
     justify-content: space-between;
 }
 
-#about {
-    color: aqua;
+.section-content {
     padding: 0 100px 0 100px;
 }
 
-h3>span {
+#about {
+    color: aqua;
+}
+
+h3 span {
     padding-left: 30px;
+    line-height: 2rem;
+    letter-spacing: 1px;
 }
 
 #works {
-    padding: 0 100px 0 100px;
     color: rgb(194, 84, 196);
 }
 
 #knowledge {
     color: yellow;
-    padding: 0 100px 0 100px;
 }
 
-ul>li {
+ul li {
     color: snow;
     padding: 10px;
 }
