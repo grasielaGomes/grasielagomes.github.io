@@ -24,6 +24,18 @@ a {
     color: snow;
 }
 
+a:hover {
+    color: #fbb900;
+}
+
+a.hover-blue:hover {
+    color: #04ab9f;
+}
+
+a.hover-pink:hover {
+    color: #e6007e;
+}
+
 img.flex-container {
     height: auto;
     width: auto;
